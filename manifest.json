@@ -1,0 +1,22 @@
+{
+  "name": "NER Dementia Care - Remember It",
+  "short_name": "RememberIt",
+  "description": "Smart India Hackathon Dementia Care Web Platform for North East Region with 8-language voice assistance, medication tracking, and emergency SOS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F8F7",
+  "theme_color": "#2E7D6E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "web/icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "web/icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
